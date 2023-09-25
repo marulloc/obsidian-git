@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reame.md",
+                "file": "Frontend Technique/Javascript/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reame.md",
+                "file": "Frontend Technique/Javascript/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reame.md",
+                "file": "Frontend Technique/Javascript/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reame.md"
+                "file": "Frontend Technique/Javascript/Readme.md"
               }
             }
           }
@@ -157,8 +157,12 @@
   },
   "active": "09a2095c162ce290",
   "lastOpenFiles": [
-    "Untitled",
-    "Reame.md",
-    "Readme.md"
+    "Frontend Technique/Typescript/Readme.md",
+    "Frontend Technique/Javascript/Readme.md",
+    "Frontend Technique/Readme.md",
+    "Readme.md",
+    "Frontend Technique/Typescript",
+    "Frontend Technique/Javascript",
+    "Frontend Technique"
   ]
 }
