@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Technique/Javascript/Readme.md",
+                "file": "Frontend Technique/004. Next.js/004-001. Basic Concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Technique/Javascript/Readme.md",
+                "file": "Frontend Technique/004. Next.js/004-001. Basic Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Technique/Javascript/Readme.md",
+                "file": "Frontend Technique/004. Next.js/004-001. Basic Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend Technique/Javascript/Readme.md"
+                "file": "Frontend Technique/004. Next.js/004-001. Basic Concept.md"
               }
             }
           }
@@ -155,14 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09a2095c162ce290",
+  "active": "9fc3f9593baf66fc",
   "lastOpenFiles": [
-    "Frontend Technique/Typescript/Readme.md",
-    "Frontend Technique/Javascript/Readme.md",
     "Frontend Technique/Readme.md",
+    "Frontend Technique/004. Next.js/004-001. Basic Concept.md",
+    "Frontend Technique/001. Javascript/Readme.md",
+    "Frontend Technique/004. Next.js",
+    "Frontend Technique/003. React.js",
+    "Frontend Technique/002. Typescript/Readme.md",
     "Readme.md",
-    "Frontend Technique/Typescript",
-    "Frontend Technique/Javascript",
+    "Frontend Technique/002. Typescript",
+    "Frontend Technique/001. Javascript",
     "Frontend Technique"
   ]
 }
