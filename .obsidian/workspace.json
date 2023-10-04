@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Frontend Technique/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Frontend Technique/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Frontend Technique/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Frontend Technique/Readme.md"
               }
             }
           }
@@ -165,10 +165,10 @@
   },
   "active": "35b213252646d89e",
   "lastOpenFiles": [
+    "Readme.md",
     "Frontend Technique/Readme.md",
     "Screenshot 2023-10-04 at 2.13.09 PM.png",
     "Untitled.canvas",
-    "Readme.md",
     "haru_HA002V7Ak3a_output.mp4",
     "Frontend Technique/004. Next.js/004-001. Basic Concept.md",
     "Frontend Technique/001. Javascript/Readme.md",
