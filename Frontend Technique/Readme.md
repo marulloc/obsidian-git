@@ -51,4 +51,6 @@
 	- markdown 형태입력 
 	- 퀘스천 기능
 	- 링크기능
+	- 이미지 삽입 
 - mallog.com/[user]
+	- 
