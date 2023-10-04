@@ -52,5 +52,6 @@
 	- 퀘스천 기능
 	- 링크기능
 	- 이미지 삽입 
-- mallog.com/[user]
-	- 
+- mallog.com/[user]/subscribe 
+- mallog.com/[user]/draft
+	- mallog.com/[user]/write?
