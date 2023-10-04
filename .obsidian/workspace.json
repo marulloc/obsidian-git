@@ -22,9 +22,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "35b213252646d89e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fc3f9593baf66fc",
+  "active": "35b213252646d89e",
   "lastOpenFiles": [
     "Frontend Technique/004. Next.js/004-001. Basic Concept.md",
     "Frontend Technique/Readme.md",
