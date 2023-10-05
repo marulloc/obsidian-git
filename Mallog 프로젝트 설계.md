@@ -19,7 +19,30 @@
 	- 유저의 블로그 메인 페이지
 	- 유저의 블로그 카테고리 보여주는 펲이지 
 	- 유저의 블로그 활동내역 잔디(파도) 노출 
-- mallog.com/[user]/about
+- mallog.com/[user]/portfoilo
 - mallog.com/[user]/[contents]
-- mallog.com/[user]/write&cid=[contentsId]
-- mallog.com/[user]/write&cid=
+- mallog.com/[user]/write-contents
+	- mallog.com/[user]/write-contents&cid=[contentsId]
+- mallog.com/[user]/write-question
+	- mallog.com/[user]/write-question&qid=[quentionId]
+- mallog.com/[user]/settings
+
+### API 설계 
+###### Auth
+- 회원가입
+- 로그인
+- 로그아웃
+###### Search 
+- 검색
+
+###### User Portfoilo
+- 포트폴리오 조회
+- 포트폴리오 수정/저장 
+
+###### User Blog
+- 메인페이지조회
+- Blog Detail 조회 
+- Blog 수정/저장 
+- Draft 작성 수정 저장 
+- Draft 배포 
+
