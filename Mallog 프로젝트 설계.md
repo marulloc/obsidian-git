@@ -16,3 +16,10 @@
 - mallog.com
 - mallog.com/about
 - malllog.com/[user]
+	- 유저의 블로그 메인 페이지
+	- 유저의 블로그 카테고리 보여주는 펲이지 
+	- 유저의 블로그 활동내역 잔디(파도) 노출 
+- mallog.com/[user]/about
+- mallog.com/[user]/[contents]
+- mallog.com/[user]/write&cid=[contentsId]
+- mallog.com/[user]/write&cid=
