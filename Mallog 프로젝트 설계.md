@@ -24,12 +24,12 @@
 	- 유저의 블로그 카테고리 보여주는 펲이지 
 	- 유저의 블로그 활동내역 잔디(파도) 노출 
 - mallog.com/[user]/portfoilo
-- mallog.com/[user]/[contents]
-- mallog.com/[user]/write-contents
-	- mallog.com/[user]/write-contents&cid=[contentsId]
-- mallog.com/[user]/write-question
-	- mallog.com/[user]/write-question&qid=[quentionId]
-- mallog.com/[user]/settings
+- mallog.com/[user]/blog/[contents]
+- mallog.com/[user]/blog/write-contents
+	- mallog.com/[user]/blog/write-contents&cid=[contentsId]
+- mallog.com/[user]/blog/write-question
+	- mallog.com/[user]/blog/write-question&qid=[quentionId]
+- mallog.com/[user]/blog/settings
 
 ### API 설계 
 ###### Auth
