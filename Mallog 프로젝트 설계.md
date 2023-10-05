@@ -14,7 +14,11 @@
 
 ### 도메인 설계 
 - mallog.com
+	- 검색바 
+	- Hot 게시물 
+	- 로그인한 유저면 너가 관심있어하는 게시물
 - mallog.com/about
+	- Mallog 소개페이지 
 - malllog.com/[user]
 	- 유저의 블로그 메인 페이지
 	- 유저의 블로그 카테고리 보여주는 펲이지 
