@@ -53,6 +53,14 @@ I'm sorry, but I will cancel your membership. I really want to see the game at t
 25박 20만원 500만원 ㅋㅋㅋ 
 
 
+- 10월 21일 디나모 드레스덴
+  https://karten.dynamo-dresden.de/shop?shopid=103
+  입석 2장 총합 5만원정도 
+- 11월 11일 뮌헨 vs 하이덴하임 
+  총 66만원 결제 완료 
+
+
+
 
 10월 21일 디나모 드레스덴 ㅋㅋㅋ  오후 두시 
 홈팀 섹션 구역이고 
