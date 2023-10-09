@@ -16,3 +16,10 @@ I'm sorry, but I will cancel your membership. I really want to see the game at t
 
 
 11월 초에 스카이다이빙 
+
+
+### 위시리스트
+- 22일 마인츠 홈구장 방문 or 주변 펍
+- 28일 뮌헨 홈경기 (v 다름슈타트)
+- 스카이 다이빙
+- 
