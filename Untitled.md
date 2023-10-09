@@ -10,3 +10,9 @@
 
   
 I'm sorry, but I will cancel your membership. I really want to see the game at the Allianz Arena, but my trip to Munich is only two weeks away. I don't think I can get tickets for the home game against Darmstadt, so I think I'll have to cancel.
+
+
+28일 뮌헨 알리안츠경기장 
+
+
+11월 초에 스카이다이빙 
