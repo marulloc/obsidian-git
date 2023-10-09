@@ -54,3 +54,8 @@ I'm sorry, but I will cancel your membership. I really want to see the game at t
 
 
 
+10월 21일 디나모 드레스덴 ㅋㅋㅋ  오후 두시 
+홈팀 섹션 구역이고 
+2층일지 3층일지는 모른다 
+금액 계좌보내고 개인정보 
+예매 확인증이 바로 전달되게 되고 
