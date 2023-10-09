@@ -24,6 +24,13 @@ I'm sorry, but I will cancel your membership. I really want to see the game at t
 - 스카이 다이빙
 
 
+- 아레나 투어 
+  https://www.myrealtrip.com/offers/11013
+- 뮌헨 홈경기 
+	- https://www.ticketguide.co.kr/91/?idx=22
+	- 참투어 
+		- 
+
 #### 가능한 경기
 10월 28일 // 뮌헨 v 다름슈타트 
 
