@@ -22,4 +22,15 @@ I'm sorry, but I will cancel your membership. I really want to see the game at t
 - 22일 마인츠 홈구장 방문 or 주변 펍
 - 28일 뮌헨 홈경기 (v 다름슈타트)
 - 스카이 다이빙
-- 
+
+
+#### 가능한 경기
+11월 4일 마인츠 v 라이프치히 
+11월 5일 도르트문트 v 뮌헨 
+11월 9일 뮌헨 v 갈라타사라이 
+11월 11일 뮌헨 v 하이덴하임
+11월 11일 다름슈타트 v 마인츠 
+
+
+
+
