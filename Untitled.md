@@ -46,4 +46,9 @@ I'm sorry, but I will cancel your membership. I really want to see the game at t
 
 
 
+25박 26일 
+
+25박 20만원 500만원 ㅋㅋㅋ 
+
+
 
