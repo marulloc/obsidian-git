@@ -32,6 +32,8 @@ I'm sorry, but I will cancel your membership. I really want to see the game at t
 		- 
 
 #### 가능한 경기
+
+10월 27일 스파르타 프라하 v 레인저스 
 10월 28일 // 뮌헨 v 다름슈타트 
 
 
