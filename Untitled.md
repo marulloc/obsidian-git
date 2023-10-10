@@ -47,6 +47,7 @@ I'm sorry, but I will cancel your membership. I really want to see the game at t
 11월 11일 // 다름슈타트 v 마인츠 
 
 
+11만 6천원
 
 25박 26일 
 
