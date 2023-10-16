@@ -50,3 +50,11 @@
 - Draft 작성 수정 저장 
 - Draft 배포 
 
+
+
+-------
+1. Blog Editor 
+	1. Markdown Basic Editor, Basic Viewer
+	2. Markdown Custom 
+2. Auth
+	1. Next Auth 
