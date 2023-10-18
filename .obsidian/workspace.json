@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO in 10~11.md",
+                "file": "Mallog 프로젝트 설계.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO in 10~11.md",
+                "file": "Mallog 프로젝트 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO in 10~11.md",
+                "file": "Mallog 프로젝트 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO in 10~11.md"
+                "file": "Mallog 프로젝트 설계.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "cc458412f7f7622a",
   "lastOpenFiles": [
-    "Mallog 프로젝트 설계.md",
     "TODO in 10~11.md",
+    "Mallog 프로젝트 설계.md",
     "Frontend Technique/Readme.md",
     "Untitled/스케치.md",
     "Untitled",
