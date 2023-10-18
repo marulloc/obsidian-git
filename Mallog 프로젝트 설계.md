@@ -1,90 +1,42 @@
 
-### Github 불러오기
-github OAuth 해서 유저의
-	- 많이 사용한 랭기지가 뭔지
-	- 잔디 내용 불러오기 
-
-### Mallog
-github 유저를 내 유저로 DB에 저장하고 
-	- 블로그 쓸 때마다 블로그 잔디 생성
-	- 블로그 카테고리 할당 ( 퀘스쳔 카테고리 필수로 만들고) 
-	- 블로그에 링킹 기능 
-	- 다른 블로그 참고하기 기능
-
-
-
-##### 이렇게 되면 
+## 도메인 설계
 1. /mallog/[user]
 	- 유저의 Github 내용과 Mallog 카테고리 서머리를 표로 나타내고
 	- 유저의 Github 잔디와 Mallog 잔디를 노출해주고 
 	- 유저가 작성한 도큐먼트의 카테고리 별로 어떤 문서를 작성하고 참고하고 있는지 Graph 
-	
+		- Graph로 네비게이팅도 가능하게 만든다. 
+2. /mallog/[user]/[content]
+	- markdown 형식의 컨텐츠가 노출됨 
+	- 내 글이 아니라면 (구독버튼 있음)
+3. /mallog/[user]/write?content-id=[cid]
+	- markdown editor
+	- markdown meta data editor
+	- linking
+	- categorizing
+4. /mallog
+	- 유저 관심있어 하는 글 보여주는 섹션
+		- 유저 github내용과, 가장 활발한 유저의 카테고리 기준
+	- 최근 구독한 글의 카테고리 기준 
+	- 검색기능 
 
+5. Global
+	- PWA를 이용한 푸시, 오프라인 에디팅 기능 구현
 
-/mallog/[user]
-에는 유저의 Document Graph(카테고리별 색으로 나눠진), Github잔디와 Git Link요약 , 블로그 잔디
-
-
-
-- markdown으
-
-
-
-
-### 주요 기능 
-1. Markdown 형태의 에디터, 뷰어 
-2. 포트폴리오 작성 기능 
-3. 각 문서 작성중 퀘스쳔과 가설을 작성할 수 있고 
-   이 질문들은 모두 unresolved question list가 된다. 
-4. 다른 유저들의 퀘스쳔과 블로그 내용을 검색 할 수 있다. 
-5. 기타 편의기능
-	1. PWA로 모든 디바이스 커버 
-	2. 포트폴리오 및 블로그 테마 설정 기능
-	3. Github에 블로그(Markdown 형태로) 백업 
-
-### 도메인 설계 
-- mallog.com
-	- 검색바 
-	- Hot 게시물 
-	- 로그인한 유저면 너가 관심있어하는 게시물
-- mallog.com/about
-	- Mallog 소개페이지 
-- malllog.com/[user]
-	- 유저의 블로그 메인 페이지
-	- 유저의 블로그 카테고리 보여주는 펲이지 
-	- 유저의 블로그 활동내역 잔디(파도) 노출 
-- mallog.com/[user]/portfoilo
-- mallog.com/[user]/blog/[contents]
-- mallog.com/[user]/blog/write-contents
-	- mallog.com/[user]/blog/write-contents&cid=[contentsId]
-- mallog.com/[user]/blog/write-question
-	- mallog.com/[user]/blog/write-question&qid=[quentionId]
-- mallog.com/[user]/blog/settings
-
-### API 설계 
-###### Auth
-- 회원가입
-- 로그인
-- 로그아웃
-###### Search 
-- 검색
-
-###### User Portfoilo
-- 포트폴리오 조회
-- 포트폴리오 수정/저장 
-
-###### User Blog
-- 메인페이지조회
-- Blog Detail 조회 
-- Blog 수정/저장 
-- Draft 작성 수정 저장 
-- Draft 배포 
-
-
-
--------
-1. Blog Editor 
-	1. Markdown Basic Editor, Basic Viewer
-	2. Markdown Custom 
-2. Auth
-	1. Next Auth 
+## 필요 서비스 api
+1. Github API
+	1. NextAuth를 이용한 OAuth
+	2. user profile
+	3. user 잔디
+	4. user repo summary
+2. Mallog (구현 필요)
+	1. 유저 테이블 및 암호화
+		1. 유저테이블
+		2. 유저 <-> 구독 
+		3. 유저 <-> 서머리
+	2. 블로그
+		1. 컨텐츠 식별자 테이블
+		2. 컨텐츠 식별자 테이블 <-> 컨텐츠 식별자 테이블
+		3. 컨텐츠 식별자 테이블 <-> 카테고리 테이블
+		4. 컨텐츠 식별자 테이블 <-> 컨텐츠 메타데이터 테이블 
+		5. ... etc
+		
