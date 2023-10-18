@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be126c7676e8d9a4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9fc3f9593baf66fc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "35b213252646d89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend Technique/Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "55748b1ea4a38d77",
             "type": "leaf",
             "state": {
@@ -48,19 +20,19 @@
             }
           },
           {
-            "id": "0219430c065d5973",
+            "id": "cc458412f7f7622a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/스케치.md",
+                "file": "TODO in 10~11.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/스케치.md",
+                "file": "TODO in 10~11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/스케치.md",
+                "file": "TODO in 10~11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/스케치.md"
+                "file": "TODO in 10~11.md"
               }
             }
           }
@@ -187,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0219430c065d5973",
+  "active": "cc458412f7f7622a",
   "lastOpenFiles": [
     "Mallog 프로젝트 설계.md",
+    "TODO in 10~11.md",
+    "Frontend Technique/Readme.md",
     "Untitled/스케치.md",
     "Untitled",
     "Readme.md",
@@ -200,7 +174,6 @@
     "Screenshot 2023-10-11 at 5.23.07 PM.png",
     "Screenshot 2023-10-11 at 5.20.44 PM.png",
     "Screenshot 2023-10-10 at 12.24.04 AM.png",
-    "Frontend Technique/Readme.md",
     "Screenshot 2023-09-30 at 2.31.22 PM.png",
     "Screenshot 2023-10-04 at 2.13.09 PM.png",
     "haru_HA002V7Ak3a_output.mp4",
