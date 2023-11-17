@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Technique/README.md",
+                "file": "Computer Science/1. Operating System/Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Technique/README.md",
+                "file": "Computer Science/1. Operating System/Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Technique/README.md",
+                "file": "Computer Science/1. Operating System/Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend Technique/README.md"
+                "file": "Computer Science/1. Operating System/Kernel.md"
               }
             }
           }
@@ -148,13 +148,21 @@
   },
   "active": "e89a49e99d5eb5ec",
   "lastOpenFiles": [
+    "Screenshot 2023-11-17 at 3.06.50 PM.png",
+    "Frontend Technique/1.Javascript/1. 실행 컨텍스트 Execution Context.md",
+    "Computer Science/1. Operating System/Kernel.md",
+    "Computer Science/1. Operating System",
+    "Screenshot 2023-11-17 at 3.03.51 PM.png",
+    "Frontend Technique/1.Javascript/10..md",
+    "Frontend Technique/1.Javascript/2..md",
+    "Frontend Technique/README.md",
     "Screenshot 2023-11-17 at 9.17.12 AM.png",
-    "Frontend Technique/5.Next.js/README.md",
+    "Frontend Technique/4.Next.js/README.md",
     "README.md",
     "Screenshot 2023-11-17 at 9.15.58 AM.png",
-    "Frontend Technique/2.Javascript/README.md",
-    "Frontend Technique/3.Typescript/README.md",
-    "Frontend Technique/4.React.js/README.md",
+    "Frontend Technique/1.Javascript/README.md",
+    "Frontend Technique/2.Typescript/README.md",
+    "Frontend Technique/3.React.js/README.md",
     "Screenshot 2023-11-17 at 9.15.17 AM.png",
     "Screenshot 2023-11-17 at 9.14.50 AM.png",
     "Screenshot 2023-11-17 at 9.14.31 AM.png",
@@ -162,17 +170,15 @@
     "Screenshot 2023-10-04 at 2.13.09 PM.png.md",
     "Frontend Technique/0.HTML/README.md",
     "Frontend Technique/1.CSS & Styling/README.md",
-    "Frontend Technique/README.md",
     "Frontend Technique/Untitled 1",
     "Untitled",
-    "Frontend Technique/5.Next.js",
-    "Frontend Technique/4.React.js",
+    "Frontend Technique/4.Next.js",
+    "Frontend Technique/3.React.js",
     "Frontend Technique/4.Node",
     "Untitled 1",
-    "Frontend Technique/3.Typescript",
+    "Frontend Technique/2.Typescript",
     "Frontend Technique/1.CSS & Styling",
-    "Frontend Technique/2.Javascript",
-    "Frontend Technique/0.HTML",
+    "Frontend Technique/1.Javascript",
     "Screenshot 2023-09-30 at 2.31.22 PM.png",
     "동유럽.md",
     "Mallog 프로젝트 설계.md",
@@ -185,8 +191,6 @@
     "Untitled/스케치.md",
     "Frontend Technique/Readme.md",
     "Screenshot 2023-10-12 at 12.19.41 AM.png",
-    "Screenshot 2023-10-11 at 5.23.27 PM.png",
-    "Screenshot 2023-10-11 at 5.23.07 PM.png",
     "Frontend Technique/001. Javascript/Readme.md",
     "Frontend Technique/002. Typescript/Readme.md"
   ]
