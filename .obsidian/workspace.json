@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55748b1ea4a38d77",
+            "id": "e89a49e99d5eb5ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mallog 프로젝트 설계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc458412f7f7622a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO in 10~11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0b6b11aa02ce2de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@@ 이게 최신이다.md",
+                "file": "Frontend Technique/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 465.5
   },
   "right": {
     "id": "86373ea1eb0835b3",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@@ 이게 최신이다.md",
+                "file": "Frontend Technique/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@@ 이게 최신이다.md",
+                "file": "Frontend Technique/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@@ 이게 최신이다.md"
+                "file": "Frontend Technique/README.md"
               }
             }
           }
@@ -171,33 +146,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0b6b11aa02ce2de",
+  "active": "e89a49e99d5eb5ec",
   "lastOpenFiles": [
-    "TODO in 10~11.md",
+    "Screenshot 2023-11-17 at 9.17.12 AM.png",
+    "Frontend Technique/5.Next.js/README.md",
+    "README.md",
+    "Screenshot 2023-11-17 at 9.15.58 AM.png",
+    "Frontend Technique/2.Javascript/README.md",
+    "Frontend Technique/3.Typescript/README.md",
+    "Frontend Technique/4.React.js/README.md",
+    "Screenshot 2023-11-17 at 9.15.17 AM.png",
+    "Screenshot 2023-11-17 at 9.14.50 AM.png",
+    "Screenshot 2023-11-17 at 9.14.31 AM.png",
+    "Screenshot 2023-11-17 at 9.12.39 AM.png",
+    "Screenshot 2023-10-04 at 2.13.09 PM.png.md",
+    "Frontend Technique/0.HTML/README.md",
+    "Frontend Technique/1.CSS & Styling/README.md",
+    "Frontend Technique/README.md",
+    "Frontend Technique/Untitled 1",
+    "Untitled",
+    "Frontend Technique/5.Next.js",
+    "Frontend Technique/4.React.js",
+    "Frontend Technique/4.Node",
+    "Untitled 1",
+    "Frontend Technique/3.Typescript",
+    "Frontend Technique/1.CSS & Styling",
+    "Frontend Technique/2.Javascript",
+    "Frontend Technique/0.HTML",
+    "Screenshot 2023-09-30 at 2.31.22 PM.png",
+    "동유럽.md",
+    "Mallog 프로젝트 설계.md",
+    "Screenshot 2023-10-22 at 8.46.44 PM.png",
+    "Untitled.md",
     "@@ 이게 최신이다.md",
+    "TODO in 10~11.md",
     "Untitled.canvas",
     "Frontend Technique/004. Next.js/004-001. Basic Concept.md",
-    "Screenshot 2023-10-22 at 8.46.44 PM.png",
-    "Readme.md",
     "Untitled/스케치.md",
     "Frontend Technique/Readme.md",
-    "Mallog 프로젝트 설계.md",
-    "haru_HA002V7Ak3a_output.mp4",
-    "Untitled",
-    "동유럽.md",
     "Screenshot 2023-10-12 at 12.19.41 AM.png",
     "Screenshot 2023-10-11 at 5.23.27 PM.png",
     "Screenshot 2023-10-11 at 5.23.07 PM.png",
-    "Screenshot 2023-10-11 at 5.20.44 PM.png",
-    "Screenshot 2023-10-10 at 12.24.04 AM.png",
-    "Screenshot 2023-09-30 at 2.31.22 PM.png",
-    "Screenshot 2023-10-04 at 2.13.09 PM.png",
     "Frontend Technique/001. Javascript/Readme.md",
-    "Frontend Technique/004. Next.js",
-    "Frontend Technique/003. React.js",
-    "Frontend Technique/002. Typescript/Readme.md",
-    "Frontend Technique/002. Typescript",
-    "Frontend Technique/001. Javascript",
-    "Frontend Technique"
+    "Frontend Technique/002. Typescript/Readme.md"
   ]
 }
