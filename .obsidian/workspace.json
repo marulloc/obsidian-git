@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/1. Operating System/Kernel.md",
+                "file": "Frontend Technique/1.Javascript/2. Execution Context Flow (about Function object).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/1. Operating System/Kernel.md",
+                "file": "Frontend Technique/1.Javascript/2. Execution Context Flow (about Function object).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/1. Operating System/Kernel.md",
+                "file": "Frontend Technique/1.Javascript/2. Execution Context Flow (about Function object).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/1. Operating System/Kernel.md"
+                "file": "Frontend Technique/1.Javascript/2. Execution Context Flow (about Function object).md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "e89a49e99d5eb5ec",
   "lastOpenFiles": [
-    "Screenshot 2023-11-17 at 3.06.50 PM.png",
-    "Frontend Technique/1.Javascript/1. 실행 컨텍스트 Execution Context.md",
+    "Frontend Technique/1.Javascript/1.  Execution Context.md",
+    "Frontend Technique/1.Javascript/2. Execution Context Flow (about Function object).md",
     "Computer Science/1. Operating System/Kernel.md",
+    "Screenshot 2023-11-17 at 3.06.50 PM.png",
     "Computer Science/1. Operating System",
     "Screenshot 2023-11-17 at 3.03.51 PM.png",
     "Frontend Technique/1.Javascript/10..md",
-    "Frontend Technique/1.Javascript/2..md",
     "Frontend Technique/README.md",
     "Screenshot 2023-11-17 at 9.17.12 AM.png",
     "Frontend Technique/4.Next.js/README.md",
@@ -190,7 +190,6 @@
     "Frontend Technique/004. Next.js/004-001. Basic Concept.md",
     "Untitled/스케치.md",
     "Frontend Technique/Readme.md",
-    "Screenshot 2023-10-12 at 12.19.41 AM.png",
     "Frontend Technique/001. Javascript/Readme.md",
     "Frontend Technique/002. Typescript/Readme.md"
   ]
